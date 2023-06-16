@@ -9,6 +9,12 @@ Objetivo:
 
 Criar um jogo de quiz no qual as perguntas, alternativas e respostas sejam extraídas de um arquivo de texto padronizado
 
+Controles:
+
+Mouse - Selecionar botões e alternativas
+Tecla ESC - Fechar o jogo no menu ou retornar para ele caso esteja em outra tela
+Teclas Numéricas - Selecionar alternativas
+
 Estrutura:
 
 - Fazer um sistema que leia de um arquivo texto, um conjunto de perguntas e alternativas. O sistema deverá entrar então em um modo de jogo, onde o usuário irá escolher o tema e a quantidade de perguntas que serão apresentadas. 
