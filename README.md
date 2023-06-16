@@ -21,15 +21,27 @@ Estrutura:
 ### Um exemplo de arquivo texto com as perguntas agrupadas por tema:
 
 Pergunta1 | tema1 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta2 | tema1 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta3 | tema1 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta4 | tema1 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta5 | tema1 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta6 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta7 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta8 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta9 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta10| tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta11| tema3 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta12| tema3 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+
 Pergunta13| tema3 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
