@@ -6,14 +6,17 @@
 ### Atividade proposta na matéria de Algoritmos e Lógica de Programação na FATEC São Caetano do Sul
 
 Objetivo: 
+
 Criar um jogo de quiz no qual as perguntas, alternativas e respostas sejam extraídas de um arquivo de texto padronizado
 
 Controles:
+
 Mouse - Selecionar botões e alternativas
-Tecla ESC - Fechar o jogo no menu ou retornar para ele caso esteja em outra tela
+Tecla ESC - Fechar o jogo no menu ou retornar para ele caso esteja em outra tela                                                                                                                                       
 Teclas Numéricas - Selecionar alternativas
 
 Estrutura:
+
 - Fazer um sistema que leia de um arquivo texto, um conjunto de perguntas e alternativas. O sistema deverá entrar então em um modo de jogo, onde o usuário irá escolher o tema e a quantidade de perguntas que serão apresentadas. 
 - Esses temas deverão ser retirados do mesmo arquivo que contem as perguntas. O sistema deverá, então, selecionar aleatoriamente no mínimo 5 perguntas e exibi-las ao usuário (respeitando o tema escolhido).
 - Apresentar cada uma das perguntas e suas alternativas e solicite do usuário sua escolha, passe para a próxima pergunta, faça isso até o final.
