@@ -12,7 +12,9 @@ Criar um jogo de quiz no qual as perguntas, alternativas e respostas sejam extra
 Controles:
 
 Mouse - Selecionar botões e alternativas
+
 Tecla ESC - Fechar o jogo no menu ou retornar para ele caso esteja em outra tela
+
 Teclas Numéricas - Selecionar alternativas
 
 Estrutura:
