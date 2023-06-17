@@ -1,4 +1,4 @@
-# Sera que Sabe?
+# Será que Sabe?
 ## Programa que cria um jogo de Quiz no Portugol Studio, com perguntas e respostas sendo extraídas de um arquivo de texto padronizado :memo:
 
 ### Pseudo Linguagem - Portugol Studio
