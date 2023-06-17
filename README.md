@@ -44,6 +44,6 @@ Pergunta8 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 |
 
 Pergunta9 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
 
-Pergunta10| tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+Pergunta10 | tema2 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
 
-Pergunta11| tema3 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
+Pergunta11 | tema3 | numero alternativa correta | alternativa 1 | alternativa 2 | alternativa 3 | alternativa 4
