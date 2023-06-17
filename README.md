@@ -5,6 +5,8 @@
 
 ### Atividade proposta na matéria de Algoritmos e Lógica de Programação na FATEC São Caetano do Sul
 
+OBS: Quando iniciado o programa, há uma chance da tela ficar piscando, nesse caso basta apertar ALT+TAB e voltar na janela do jogo
+
 Objetivo: 
 
 Criar um jogo de quiz no qual as perguntas, alternativas e respostas sejam extraídas de um arquivo de texto padronizado
