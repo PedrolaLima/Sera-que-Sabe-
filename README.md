@@ -1,6 +1,13 @@
 # Será que Sabe?
 ## Programa que cria um jogo de Quiz no Portugol Studio, com perguntas e respostas sendo extraídas de um arquivo de texto padronizado :memo:
 
+![image](https://github.com/PedrolaLima/Sera-que-Sabe-/assets/134794281/bb87b906-f350-462a-964f-16111aa94c06)
+![image](https://github.com/PedrolaLima/Sera-que-Sabe-/assets/134794281/68391eb8-0dcf-40cc-bfe9-0da8af756a23)
+![image](https://github.com/PedrolaLima/Sera-que-Sabe-/assets/134794281/3a046336-05e4-41bb-a77b-3647b8f4989c)
+![image](https://github.com/PedrolaLima/Sera-que-Sabe-/assets/134794281/29c61be0-964e-4c5d-97bd-80ca9ec7e3e0)
+![image](https://github.com/PedrolaLima/Sera-que-Sabe-/assets/134794281/83eb6774-1c37-4a5a-ba6c-8b13f1e4884d)
+
+
 ### Pseudo Linguagem - Portugol Studio
 
 ### Atividade proposta na matéria de Algoritmos e Lógica de Programação na FATEC São Caetano do Sul
